@@ -1,0 +1,6 @@
+# Project requirements from PyPi
+mastercard-client-encryption==1.20.0
+mastercard-oauth1-signer==1.9.0
+SQLAlchemy==1.4.37
+python-dotenv==1.0.1
+python-jose==3.3.0
